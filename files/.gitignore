@@ -1,0 +1,4 @@
+# Ignore everything
+../API
+# Except these files
+!.gitignore
